@@ -1,5 +1,9 @@
 # Let's Circle Back to Your Burnout
 
+[![make.fun · u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/heruruben-hub/office-jokes-20261125/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/heruruben-hub/office-jokes-20261125/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+
 [![Bounty](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/badge/bounty)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
 [![Rank](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/badge/rank)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
 [![Reward](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/badge/reward)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
